@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart math</string>
+    <string name="summ">СЛОЖЕНИЕ</string>
+    <string name="subt">ВЫЧИТАНИЕ</string>
+    <string name="mult">УМНОЖЕНИЕ</string>
+    <string name="button_name">ПОЕХАЛИ</string>
+    <string name="text_view_task_summa">СЛОЖЕНИЕ</string>
+    <string name="text_view_task_subt">ВЫЧИТАНИЕ</string>
+    <string name="text_view_task_mult">УМНОЖЕНИЕ</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

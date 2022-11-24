@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/summ"
+        android:title="@string/summ"
+        android:icon="@drawable/ic_summ"/>
+
+    <item android:id="@+id/subt"
+        android:title="@string/subt"
+        android:icon="@drawable/ic_subt"/>
+
+    <item android:id="@+id/mult"
+        android:title="@string/mult"
+        android:icon="@drawable/ic_mult"/>
+</menu>
